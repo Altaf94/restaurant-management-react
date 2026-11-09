@@ -1,23 +1,31 @@
-# Restaurant Management 🍽️
+# Restaurant Management
 
-A complete restaurant management system to handle **orders, receipts, payments, and billing** seamlessly.  
-Built to simplify restaurant operations and improve customer experience.  
+A React app for running a small restaurant: orders, billing, menu and staff salaries.
 
-## ✨ Features
-- 🛎️ **Order Management** – Take and track customer orders in real time  
-- 🧾 **Receipts** – Generate digital or printable receipts for customers  
-- 💳 **Payments** – Support for cash, card, and digital wallets  
-- 📑 **Billing System** – Automated bill calculation with tax & discounts  
-- 📊 **Reports & Analytics** – Sales reports, revenue insights, and trends  
-- 👨‍🍳 **Staff Management** *(optional extension)*  
-- 📦 **Inventory Tracking** *(optional extension)*  
+## Features
 
----
+- Dashboard
+- Order management with printable orders
+- Bill management with printable bills
+- Menu management with menu item cards
+- Salary management (employee context)
 
+## Tech stack
 
+- **Frontend:** React (Create React App), React Router
+- **Utilities:** date-fns, uuid, lucide-react
 
-## 🚀 Getting Started
+## Getting started
 
-### Clone the repository
 ```bash
-git clone https://github.com/your-username/restaurant-management-app.git
+npm install
+npm start
+```
+
+## Screenshots
+
+<!-- Add 2-3 screenshots here: docs/screenshots/*.png -->
+
+## Author
+
+Built by **Altaf Hassan**, Software Engineer (React Native & full-stack). [Portfolio](https://altaf94-portfolio.netlify.app) · [LinkedIn](https://linkedin.com/in/altaf-hassan)
